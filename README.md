@@ -20,7 +20,7 @@ Here are some of the technologies I have experience with:
 
 ---
 
-### 📈 My GitHub Stats
+### My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jxhn0214&show_icons=true&theme=radical&rank_icon=github" alt="John Suralta's GitHub Stats" />
@@ -30,7 +30,7 @@ Here are some of the technologies I have experience with:
 
 ---
 
-### 📫 How to Reach Me
+### How to Reach Me
 
 <p>
   <a href="https://www.linkedin.com/in/john-suralta-4286a9331"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
