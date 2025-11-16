@@ -1,8 +1,8 @@
 ### Hi, I am John Suralta
 
-[cite_start]I am a Computer Science major with a Mathematics minor at the University of Alaska Anchorage (UAA), expecting to graduate in May 2029[cite: 10, 37]. I am passionate about programming and mathematics.
+I am a Computer Science major with a Mathematics minor at the University of Alaska Anchorage (UAA), expecting to graduate in May 2029[cite: 10, 37]. I am passionate about programming and mathematics.
 
-[cite_start]I am actively seeking a **Summer 2026 Internship** in the tech industry[cite: 10].
+I am actively seeking a **Summer 2026 Internship** in the tech industry[cite: 10].
 
 ---
 
