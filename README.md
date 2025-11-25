@@ -21,16 +21,6 @@ Here are some of the technologies I have experience with:
 
 ---
 
-### My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnSuralta&show_icons=true&theme=radical&rank_icon=github" alt="John Suralta's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnSuralta&layout=compact&theme=radical" alt="John Suralta's Top Languages" />
-</p>
-
----
-
 ### How to Reach Me
 
 <p>
