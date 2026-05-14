@@ -2,8 +2,6 @@
 
 I am a Computer Science major with a Mathematics minor at the University of Alaska Anchorage (UAA), expecting to graduate in May 2029. I am passionate about programming and mathematics.
 
-I am actively seeking a **Summer 2026 Internship** in the tech industry.
-
 ---
 
 ### My Skills & Technologies
